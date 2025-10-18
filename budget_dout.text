@@ -1,0 +1,32 @@
+...WELCOME TO THE BUDGET CALCULATOR...
+by <team dot slash>
+Here you can easily compute your monthly budget, total costs, leftover funds, and many other things.
+So let's start...
+Initially, we would like to know how much money you make monthly.
+
+Monthly Income: Rs. 565.00
+
+Now we are ready to show you result.
+
+Your Total Monthly Expenses : Rs.562.00
+Your Remaing Money : Rs. 3.00
+Your overall spending does not exceed your revenue.
+Now, if you would want to view your specific spending result, please let us know which result you should see.
+To see your housing expenses press 1
+To see your food expenses press 2
+To see your transportation expenses press 3
+To see your education expenses press 4
+To see your family expenses press 5
+To see your healthcare expenses press 6
+To see your savings press 7
+To see all press 8
+
+Enter the case number: 4
+Total Education Expenses: Rs. 108.00
+ Percentage of education expenses depends on total expenses: 19.22 %
+ Percentage of education expenses depends on your income: 19.12 %
+ 
+
+REGARDS FROM <team dot slash>.
+THANK YOU FOR USING OUR CALCULATOR.
+VISIT AGAIN.

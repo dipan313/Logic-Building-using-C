@@ -1,0 +1,19 @@
+...WELCOME TO THE BUDGET CALCULATOR...
+by <team dot slash>
+Here you can easily compute your monthly budget, total costs, leftover funds, and many other things here.
+So let's start
+Initially, we would like to know how much money you make monthly.
+
+Monthly Income: Rs.5100.00
+
+Summary of your monthly budget:
+Total Income: Rs.5100.00
+Total Housing Expenses: Rs.25.00
+Total Food Expenses: Rs.15.00
+Total Transportation Expenses: Rs.85.00
+Total Education Expenses: Rs.70.00
+Total Family Expenses: Rs.95.00
+Total Healthcare Expenses: Rs.65.00
+Total Savings: Rs.65.00
+Total Expenses: Rs.420.00
+Balance: Rs.4680.00
